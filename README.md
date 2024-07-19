@@ -16,6 +16,5 @@ The journey, outlined in the comprehensive table of contents, covered various st
 3. Exploratory Data Analysis (EDA)
 4. Data Engineering
 5. Modeling
-6. Model Performance
-7. Model Explanations
-8. Conclusion
+6. Model Evaluation
+7. Model Deployment

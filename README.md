@@ -27,7 +27,7 @@ MultinomialNB was a strong candidate for classifying user reviews due to its eff
 To run this project, ensure you have Python installed. Follow these steps to set up the environment:
 
 1. **Clone the repository:**
-- "git clone https://github.com/AneleMaphalala/ChatGPT-User-Reviews-Analysis.git"
+- "git clone https://github.com/AneleMaphalala/ChatGPT_User_Reviews.git"
 - "cd ChatGPT-User-Reviews-Analysis"
 
 2. **Create a virtual environment:**
